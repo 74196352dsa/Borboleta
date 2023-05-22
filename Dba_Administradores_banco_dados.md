@@ -1,1 +1,1 @@
-Dba –  Administradores de banco de dados
+Equipe Dba –  Administradores de banco de dados
