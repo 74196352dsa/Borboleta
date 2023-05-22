@@ -1,1 +1,1 @@
-BackEnd – Desenvolvedores júnior e pleno
+Equipe BackEnd – Desenvolvedores júnior e pleno
