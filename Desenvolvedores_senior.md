@@ -1,1 +1,1 @@
-Equipe Desenvolvedores seniors
+Equipe Desenvolvedores senior
