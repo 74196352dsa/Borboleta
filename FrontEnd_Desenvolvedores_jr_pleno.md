@@ -1,1 +1,1 @@
-FrontEnd_Desenvolvedores_jrs_pleno
+Equipe FrontEnd_Desenvolvedores_jrs_pleno
