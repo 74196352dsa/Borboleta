@@ -1,1 +1,1 @@
-Tester_Equipe_testes_qualidade_software
+Tester_Equipe_testes_qualidade_softwares
